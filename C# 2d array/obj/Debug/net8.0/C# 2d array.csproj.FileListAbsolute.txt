@@ -1,0 +1,15 @@
+/workspaces/CsharpTask2/C# 2d array/bin/Debug/net8.0/C# 2d array
+/workspaces/CsharpTask2/C# 2d array/bin/Debug/net8.0/C# 2d array.deps.json
+/workspaces/CsharpTask2/C# 2d array/bin/Debug/net8.0/C# 2d array.runtimeconfig.json
+/workspaces/CsharpTask2/C# 2d array/bin/Debug/net8.0/C# 2d array.dll
+/workspaces/CsharpTask2/C# 2d array/bin/Debug/net8.0/C# 2d array.pdb
+/workspaces/CsharpTask2/C# 2d array/obj/Debug/net8.0/C# 2d array.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/CsharpTask2/C# 2d array/obj/Debug/net8.0/C# 2d array.AssemblyInfoInputs.cache
+/workspaces/CsharpTask2/C# 2d array/obj/Debug/net8.0/C# 2d array.AssemblyInfo.cs
+/workspaces/CsharpTask2/C# 2d array/obj/Debug/net8.0/C# 2d array.csproj.CoreCompileInputs.cache
+/workspaces/CsharpTask2/C# 2d array/obj/Debug/net8.0/C# 2d array.sourcelink.json
+/workspaces/CsharpTask2/C# 2d array/obj/Debug/net8.0/C# 2d array.dll
+/workspaces/CsharpTask2/C# 2d array/obj/Debug/net8.0/refint/C# 2d array.dll
+/workspaces/CsharpTask2/C# 2d array/obj/Debug/net8.0/C# 2d array.pdb
+/workspaces/CsharpTask2/C# 2d array/obj/Debug/net8.0/C# 2d array.genruntimeconfig.cache
+/workspaces/CsharpTask2/C# 2d array/obj/Debug/net8.0/ref/C# 2d array.dll
